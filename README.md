@@ -6,4 +6,3 @@ Face and Hand detection <br>
 -First print is the name of the data
 <br>
 -Second print (number) is the recognize variable (prediction[1]) <br>
--If 
