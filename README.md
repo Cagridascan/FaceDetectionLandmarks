@@ -4,8 +4,8 @@
 ## Facial Detection and Draw hand-face landmarks <br>
 <div >
 -OpenCV <br>
--Mediapipe <Br>
-
+-Mediapipe <br>
+<br>
 OpenCV library used for facial detection and recognizing face.<br>
 mediapipe library used for draw the landmark on the face <br> 
 
