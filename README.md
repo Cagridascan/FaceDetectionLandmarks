@@ -1,6 +1,6 @@
 # Face Detection and Draw Landmarks
 ## Face and Hand detection <br>
-<div class="center">
+<div align="center">
 <img src="https://user-images.githubusercontent.com/69674115/183652612-18ac97d8-eeb4-4883-a7e0-3c278a049996.png" width="400" />
 
 
