@@ -2,7 +2,7 @@
 
 # Face Detection and Draw Landmarks
 ## Facial Detection and Draw hand-face landmarks <br>
-<div align="center">
+<div >
 -OpenCV <br>
 -Mediapipe <Br>
 
