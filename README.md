@@ -13,5 +13,5 @@
 
 <img src="https://user-images.githubusercontent.com/69674115/183838871-4cf897a0-1daa-4407-bf06-9c5e473869e7.png" width="400" />
 <br>
--Exaple of the hand and face landmarks
+-Example of the hand and face landmarks
   </div>
