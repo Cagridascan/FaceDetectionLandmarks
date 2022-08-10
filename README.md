@@ -1,8 +1,13 @@
 
 
 # Face Detection and Draw Landmarks
-## Face and Hand detection <br>
+## Facial Detection and Draw hand-face landmarks <br>
 <div align="center">
+-OpenCV <br>
+-Mediapipe <Br>
+
+OpenCV library used for facial detection and recognizing face.<br>
+mediapipe library used for draw the landmark on the face <br> 
 
 <img src="https://user-images.githubusercontent.com/69674115/183652612-18ac97d8-eeb4-4883-a7e0-3c278a049996.png" width="400" />
 
