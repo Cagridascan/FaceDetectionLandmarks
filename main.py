@@ -126,7 +126,7 @@ with mp_face_mesh.FaceMesh(min_detection_confidence = 0.5, min_tracking_confiden
                             (x - 10, y - 10), cv2.FONT_HERSHEY_PLAIN, 1, (0, 255, 0)
 
                             )
-        #flip and display
+        #display
         cv2.imshow("FaceDetect", image)
 
         if cv2.waitKey(10) == 27:
