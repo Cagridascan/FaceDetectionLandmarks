@@ -21,5 +21,5 @@ mediapipe library used for draw the landmark on the face <br>
 -Example of the hand and face landmarks
 <br>
 <br>
-create_data.py for create data from camera
+create_data.py is used to create data from camera and save in the datasets file
   </div>
