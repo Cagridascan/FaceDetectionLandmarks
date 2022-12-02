@@ -19,4 +19,7 @@ mediapipe library used for draw the landmark on the face <br>
 <img src="https://user-images.githubusercontent.com/69674115/183838871-4cf897a0-1daa-4407-bf06-9c5e473869e7.png" width="400" />
 <br>
 -Example of the hand and face landmarks
+<br>
+<br>
+create_data.py for create data from camera
   </div>
